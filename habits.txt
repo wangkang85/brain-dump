@@ -1,0 +1,29 @@
+- GTD and reduce Psychic Entropy
+    - Determine the urgency level of each task and react to them on time.
+    - In terms of daily execution, put first thing first.
+    - Decompose uncertainty into different scenarios. Think through the impact of each scenario and the corresponding solution proactively.
+    - Psychic entropy can accumulate and compound. Break the loop immediately by doing some exercise and then visualize them by writing them down.
+- Evening Ritual:
+    - Reflect the passing day and analyze the gap between expectation and reality.
+    - Outline (1) what I’ve improved, (2) what (temptation) I’ve resisted and (3) what I’ve learned.
+    - Read, relax and get ready for sleep.
+- Morning Ritual:
+    - Introspect my thoughts, beliefs and emotions.
+    - Summarize the journal written down last night and organize the learning into the right “room” of my knowledge palace.
+    - Make plans for the day.
+        - Identify 3 types of time slots: non-controllable, controllable and fragmented.
+        - Analyze the tasks by urgency, importance and deepness.
+        - Fill the tasks into the time slots wisely and conservatively.
+- During the Day:
+    - Be thoughtful and mindful: are there better alternatives for this decision I am going to make?
+    - Be aware of the fluctuations of our cognitive abilities.
+        - Morning (wake-up to noon): peak phase. Best for deep tasks that require convergent thinking.
+        - Afternoon (noon - dawn): trough phase. Best for shadow tasks that require more labor than brain.
+        - Evening (after dawn): recovery phase. Best for divergent thinking.
+    - Take frequent and short breaks, which helps me cool down and defer the fatigue point.
+    - Batch trivial tasks and work on them during trough phase.
+- Afternoon Ritual:
+    - Recharge by academic reading. 
+- Rest well and keep discovering new things.
+- Block two half-days per week for reading and writing only.
+- Collect ideas and keep shaping them.
