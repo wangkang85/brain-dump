@@ -22,6 +22,7 @@
         - Evening (after dawn): recovery phase. Best for divergent thinking.
     - Take frequent and short breaks, which helps me cool down and defer the fatigue point.
     - Batch trivial tasks and work on them during trough phase.
+    - For irreversible and consequential decisions, unless they need to be made on the spot, take a 30-minute walk first.
 - Afternoon Ritual:
     - Recharge by academic reading. 
 - Rest well and keep discovering new things.

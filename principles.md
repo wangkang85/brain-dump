@@ -2,7 +2,11 @@ General Principles
 - I can’t change things outside of my control, but I can change my attitude.
 - The means has serve the end; don't get distracted by nice but useless things.
 - Set a clear goal but don't focus on the goal itself; focus on building a process to get there.
-- Dichotomy of decision making processes for [reversible and irreversible decisions](https://fs.blog/2018/04/reversible-irreversible-decisions/).
+- Categorize decisions by their reversibility and consequentiality.
+    - Delegate inconsequential decisions to junior people, so they can develop judgment.
+    - Delegate reversible and consequential decisions to senior people, so they can run experiments, collect information and present their findings.
+    - Delegate irreversible and consequential decisions to the best and most responsible people.
+- When making irreversible and consequential decisions, write down my thinking process in decision journal and review them in post-mortem.
 - Take risks systematically and scientifically.
 - Build a feedback loop for any betterment. Record and measure first, follwed by retrospection and reflection.
 - Principles outlive tactics.
