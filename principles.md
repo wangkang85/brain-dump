@@ -27,7 +27,14 @@ Investment Principles
 - Diversify among different evaluation methods (short-term earning, long-term growth, etc).
 - Diversify between horizontal-integration (infrastructure centric) companies and vertical-integration (solution-centric) companies.
 
-Management Principles:
+Management Principles
 - Select for attitude, train for skills.
 - Reward more to success than efforts.
 - Once the business is steady, company should focus on earning and move to a healthy state financially in baby steps. Otherwise, a dramatic change for the sake of earning will cause friction and disgust from the users.
+
+Meeting Principles
+- A good process will help us deliver the goal, but not vice vera.
+- Share context and make sure that everyone is on the same page before further reasoning.
+- Articulate the decision framework which is essentially the principle driving the decision.
+- Discuss whether the principle aligns with the value we share.
+- Apply the principle to derive the right decision.
