@@ -21,6 +21,7 @@ General Principles
 - A process to solve almost all problems: Goals - Problems - Root Cause Diagnosis - Solution Design - Doing.
 - Skeptical during planning, steady during execution.
 - Reduce fear by planning for the worst case and practicing the contingency plan.
+- Meausre with a decision in mind; Collect data with a purpose in mind.
 
 Investment Principles
 - The purpose of hedging is to reduce the variance, at the cost of slightly reduced mean.
