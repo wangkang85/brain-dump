@@ -1,22 +1,19 @@
 General Principles
 - I can’t change things out of my control, but I can change my attitude towards them.
-- Set clear goals but don't get obsessed by the goals; focus on building a process to get there.
-- The means has to serve the end; don't get distracted by nice but inessential things.
+- Embrace and leverage changes - the only thing that never changes is change.
+- Think about my mission instead of my identity before deciding my actions.
+- Past experiences and learnings are not sunk cost; they are the most valuable assets that can be activated by my next action.
+- Set clear goals but don't get obsessed by the goals themselves; focus on building a process to get there.
+- Control power but don't let power control me; be determined and self-skeptical at the same time.
+- Keep the finite nature of life in mind; don't get distracted by nice but inessential things.
 - Follow the light as bees strategically, try and err like ants tactically.
-- Think big while moving in baby steps.
 - Verify and refine hypotheses on a small scale; apply the validated ones on a big scale.
 - Principles outlive tactics.
-- Extraordinary rewards only come with being right and being a minority at the same time.
-- Those choices that were not optimal for certain utility but served certain meaning actually defined us.
-- A wise decision can only be made on top of well-defined constraints (bottom lines) and objectives.
+- Don't be afraid of being a minority. Extraordinary rewards only come with being right and being a minority at the same time.
 - Build a feedback loop for any betterment - record, measure, reflect, refine and so on.
-- Measure with a purpose or hypothesis in mind.
-- Thoughtful opinions held loosely - reality is the ultimate judge of objectivity.
 - Known unknowns are at least equal to or sometimes more valuable than known knowns.
 - Reduce uncertainty through a decomposition on how to get there.
-- Stay focused by being aware of the 80/20 rule.
-- For consequential decisions, document the decision process so the decision framework can be refined in the future.
-- Focus on learning the fundamentals (mental models and basic skills), which can be valuablefor a long time.
+- Focus on learning the fundamentals (mental models and basic skills), which can be valuable for a long time.
 - Adaptability over vision. Failures are more often due to unable or unwilling to adapt, rather than unable to predict.
 - Adapt to survive; differentiate to thrive.
 - Thoughtful and skeptical during decision making, focused and steady during execution.
@@ -25,6 +22,13 @@ General Principles
 - Reduce fear by planning for the worst case and practicing the contingency plan.
 - Seize the fate through the mastering of probabilities.
 - Judge the impact of historical events from the civilization's perspective, not from the individual's perspective.
+
+Decision-making Principles
+- A wise decision can only be made on top of well-defined constraints (bottom lines) and objectives.
+- Optimal decisions can even be made by a machine given enough context; our conscious suboptimal decisions actually defined us.
+- For consequential decisions, document the decision process so the decision framework can be refined in the future.
+- Thoughtful opinions held loosely - reality is the ultimate judge of objectivity.
+- Think big but move in baby steps.
 - For critical and rare decisions, think from the perspective of the bigger group and even human civilization.
 
 Investment Principles
@@ -36,13 +40,13 @@ Investment Principles
 - Evaluate a decision by its decision process, not by its outcome - a good decision doesn't necessarily produce a good outcome and a bad decision may still produce a good outcome. The latter is much more dangerous.
 - A good decision is characterized by thoughtful consideration of alternatives (in terms of potential outcome and odds) and picking the most promising one.
 - Only invest in positive-sum games (such as stocks and bounds); never invest in zero-sum games (such as commodities and currencies).
-- Stay precautious about options - predicting the trend is much easier than predicting the timing.
+- Stay precautious about options - predicting the timing is much harder than predicting the trend.
 - Phenomenal growth only happens to very few companies. Thus, the secret of investment is to find places where it's safe and wise to non-diversify.
-- Highly rewarding opportunities generally arise when people haven't noticed a big breakthrough yet, which is often coupled with the shift from Early Adopter to Early Majority.
+- Highly rewarding opportunities generally arise when people haven't noticed a big breakthrough yet, which often lies in the shift from Early Adopter to Early Majority.
 - Limit the exposure of each asset by Kelly criterion.
-- The purpose of hedging is to make sure that part of the portfolio can be disposed without a loss at any given point.
-- Assets whose potential return is bounded but potential loss is unlimited should be avoided at all costs.
-- Don't try to time the market. Instead, buy or sell in a Bayesian way - start with a small bet given a hypothesis and adjust the bet based on market feedback.
+- The purpose of hedging is to make sure that some part of the portfolio can be disposed without a loss at any given point.
+- Assets whose potential return is bounded but potential loss is unbounded should be avoided at all costs.
+- Don't try to time the market. Instead, buy or sell in a Bayesian way - start with a small bet and add more bets when the hypothesis is verified by the market.
 - Stay aware of disposition effect; good or bad outcomes generally get extremized, which is driven by human nature and enabled by derivatives.
 
 Business Principles
