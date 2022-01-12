@@ -24,6 +24,7 @@ General Principles
 - Don't get obsessed by simple and elegant models; embrace the data-driven approach on complex problems.
 - Don't simply take the mid-point between two opposing poles; learn and apply the most appropriate extreme case by case.
 - Don't let bland equanimity replace the passion that leads to both strengths and weaknesses; just moderate the weaknesses.
+- Being loyal does not mean strictly obeying one's order but wholeheartedly serving one's best interest.
 
 Decision-making Principles
 - A rational decision is essentially optimizing the objectives on top of well-defined constraints (bottom lines).
@@ -40,9 +41,10 @@ Decision-making Principles
 
 Investment Principles
 - Investment is an epistemic game, where the monetary gain is simply a by-product of epistemic development.
-- Investment is an infinite game, where the goal is not reaching a specific amount. Rather, it is meant to keep growing the portfolio and refine the methodology.
-- Articulate the goal(s) (yield, liquidity, volatility, hedging, etc) before each investment; evaluate the success of the investment by and only by its own goal.
-- The long-term growth of the company is the main driver in buying or selling decisions. The exit strategy should be based on that instead on the price change.
+- Investment is an infinite game, where the goal is not to reach a specific amount. Rather, it is meant to grow the portfolio and refine the kernel.
+- Precision over recall: wait for the pitch you want, so you can swing with high accuracy and sufficient resources.
+- Articulate the goal(s) (yield, liquidity, volatility, hedging, etc) before making each investment; evaluate the success of the investment by and only by its own goal.
+- There is no such thing as an exit strategy in investment - you sell your investment when you need the cash or find a better opportunity.
 - Trade with a rationale - articulate and document the goals, constraints, hypotheses, alternatives and expectation of alternatives.
 - Evaluate a decision by its decision process instead of its outcome - good decisions don't guarantee good outcomes and bad decisions might produce good outcomes. The latter is much more dangerous.
 - A good decision is characterized by thoughtful consideration of alternatives (in terms of potential outcome and odds) and picking the most promising one.
@@ -51,18 +53,21 @@ Investment Principles
 - Phenomenal growth only happens to very few companies. Thus, the secret of investment is to find places where it's safe and wise to non-diversify.
 - Highly rewarding opportunities generally arise when people haven't noticed a big breakthrough yet, which often lies in the shift from Early Adopter to Early Majority.
 - Limit the exposure of each asset by Kelly criterion.
-- The sole point of hedging is to make sure that part of the portfolio can be disposed without a loss at any given point.
-- Assets whose potential return is bounded but potential loss is unbounded should be avoided at all costs.
+- You can’t hedge, but you can diversify.
+- Assets whose potential return is bounded but potential loss is unbounded (i.e., concave) should be avoided at all costs.
 - Don't try to time the market. Instead, set an upper bound for the price and keep buying in a fixed schedule.
-- Stay aware of the disposition effect; good or bad outcomes generally get extremized, which is driven by human nature and enabled by derivatives.
+- Stay aware of the reflexivity: good or bad outcomes will get intensified, driven by human nature and enabled by derivatives.
+- Feedback loops matter: a company that has established a close feedback loop has the potential of exponential growth.
 
 Business Principles
 - Define the company by its mission, which is ultimately satisfying a demand of the society.
-- The demand is long-lasting or everlasting.
-- The demand aligns with mainstream values of human society.
-- The demand is large or even infinite.
+- The demand must be long-lasting or everlasting.
+- The demand must align with mainstream values of human society.
+- The demand must be large or even infinite.
+- A successful company must form its virtuous cycle, which starts from establishing a closed feedback loop.
+- Once a positive feedback loop is discovered, focus on the first cause, the step which we have the most control on.
 - Adopt different strategies at different stages over the path of company growth.
-- Accept and embrace the seemingly chaos, as long as the goal is highly aligned.
+- Accept and embrace the seemingly chaos, as long as everyone is clear about the goal.
 - Dream big and pivot as necessary.
 - Focus on the true essence of the product - get three key features very very right and forget about everything else.
 - An effective competitive strategy is a strategy that your competitor can't react to, due to either incapability or not congruent with its core competence.
@@ -71,11 +76,13 @@ Management Principles
 - Select for attitude, train for skills.
 - Reward more for success than efforts.
 - Once the business is steady, a company should focus on earning and move to a healthy state financially in baby steps. Otherwise, a dramatic price change motivated by profitability would cause friction and disgust from the customers.
+
+Leadership Principles
 - Categorize decisions by their reversibility and consequentiality.
     - Leave inconsequential decisions to junior people, because the growth of people outweighs the value of the decisions themselves.
     - Leave reversible and consequential decisions to senior people, because the decisions can be well handled and possibly leads to knowledge expansion.
     - Leave irreversible and consequential decisions to the best and most responsible people.
-- Being loyal does not mean strictly obeying one's order but wholeheartedly serving one's best interest.
+- Tell the story before the battle; share the relection after the battle.
 
 Meeting Principles
 - Share context and make sure that everyone is on the same page before further reasoning.
